@@ -1,0 +1,42 @@
+    body {
+        margin: 0;
+    }
+
+    #header {
+        background-color: #385a00;
+        color: white;
+        padding: 14px;
+        text-align: center;
+    }
+
+    #menu {
+        float: left;
+        width: 20%;
+        height: 810px;
+        background-color: #993303f6;
+        margin: 0;
+    }
+
+    #main {
+        margin-left: 20%;
+        height: 770px;
+        padding: 20px;
+        color: aliceblue;
+        background-color: black;
+    }
+
+    #footer {
+        background-color: #385a00;
+        color: white;
+        padding: 10px;
+        text-align: center;
+    }
+
+    #main img {
+        width: 360px;
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 20px 70px 40px 0;
+
+    }
